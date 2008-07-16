@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-# liten 0.1.4 -- deduplication command line tool
+# pathtool
 #
 # Author: Noah Gift
 try:
