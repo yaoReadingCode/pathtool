@@ -11,7 +11,7 @@ except ImportError:
     from setuptools import setup, find_packages
 import os,sys
 
-version = '0.1.0'
+version = '0.2.0'
 f = open(os.path.join(os.path.dirname(__file__), 'docs', 'index.txt'))
 long_description = f.read().strip()
 f.close()
@@ -19,7 +19,7 @@ f.close()
 setup(
 
       name='pathtool',
-      version='0.1.0',
+      version='0.2.0',
       description='an efficient python path API',
       long_description=long_description,
       classifiers=[
